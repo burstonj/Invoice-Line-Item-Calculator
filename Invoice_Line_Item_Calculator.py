@@ -37,7 +37,7 @@ def main():
         answer = input("Enter another line item? (y/n): ")
         print()
         
-    print("Bye!")
+    print("Good Bye!")
 
 
 if __name__ == "__main__":
